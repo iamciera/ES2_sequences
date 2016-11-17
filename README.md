@@ -14,7 +14,11 @@ This directory contains Eve strip 2 sequences ranges from  gathered from differe
 -  D. mojavensis (droMoj3)
 -  D. yakuba (droYak2) *Note that these sequences lifted weird and may screw up your alignment, not sure why*
 
-## Files
+## File Directory
+
+### beforeAlignement   
+
+Each has "ES2" sequences according to different sources. The ranges that were used and correspond to D. melanogaster are located in `1a.eveRegions.bed`
 
 `berman_eve-striped-2.fa` - From Exploiting transcription factor binding site clustering to identify cis-regulatory modules involved in pattern formation in the Drosophila genome.  Berman et al., 2002.  Eisen Lab.
 
@@ -30,7 +34,7 @@ This directory contains Eve strip 2 sequences ranges from  gathered from differe
 
 `whole_eve_locus.fa` : The entire intergenic region that ES2 is located. (Between even-skipped and CG12134)
 
-### Files with Montium species
+### File with Montium species
 
 `forContructTarget_eve-striped-2_with_Montium_and_Drosophila.fa` : File contains what I isolated for my construct with Montium sequences and D. melanogaster.
 
