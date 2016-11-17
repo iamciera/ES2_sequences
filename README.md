@@ -1,18 +1,18 @@
 # README.md
 
-This directory contains Eve strip 2 sequences ranges from  gathered from different sources. From the `otherSpecies_pipeline_1` analysis.
+This directory contains Eve strip 2 sequences ranges from  gathered from different sources. Sequences were extracted using the Liftover program. More detail can be found in notebook `otherSpecies_pipeline_1`.   
 
 ## Species
 
-D. pseudoobscura (Dp4)
-D. grimshawi (droGri2)
-D. virilis (droVir3)
-D. willistoni (droWil1)
-D. ananassae (droAna3)
-D. erecta (droEre2)
-D. simulans (droSim1)
-D. mojavensis (droMoj3)
-D. yakuba (droYak2) *Note that these sequences lifted weird and may screw up your alignment, not sure why*
+-  D. pseudoobscura (Dp4)
+-  D. grimshawi (droGri2)
+-  D. virilis (droVir3)
+-  D. willistoni (droWil1)
+-  D. ananassae (droAna3)
+-  D. erecta (droEre2)
+-  D. simulans (droSim1)
+-  D. mojavensis (droMoj3)
+-  D. yakuba (droYak2) *Note that these sequences lifted weird and may screw up your alignment, not sure why*
 
 ## Files
 
@@ -30,28 +30,23 @@ D. yakuba (droYak2) *Note that these sequences lifted weird and may screw up you
 
 `whole_eve_locus.fa` : The entire intergenic region that ES2 is located. (Between even-skipped and CG12134)
 
-### Files with Montium 
+### Files with Montium species
 
 `forContructTarget_eve-striped-2_with_Montium_and_Drosophila.fa` : File contains what I isolated for my construct with Montium sequences and D. melanogaster.
 
 Additional Species in this file:
 
-dm          Drosophila melanogaster
-
-MEMB003E    Drosophila aurora
-MEMB002B    Drosophila triauraria 
-MEMB003C    Drosophila asahinai 
-MEMB002A    Drosophila rufa
-MEMB002C    Drosophila lacteicornis 
-
-MEMB003D    Drosophila bocki 
-MEMB003A    Drosophila leontia
-
-MEMB002D    Drosophila bunnanda 
-MEMB002E    Drosophila serrata 
-MEMB003B    Drosophila birch 
-
-MEMB003F    Drosophila jambulina 
-MEMB002F    Drosophila pectinifera 
-
+-  dm6          Drosophila melanogaster
+-  MEMB003E    Drosophila aurora
+-  MEMB002B    Drosophila triauraria 
+-  MEMB003C    Drosophila asahinai 
+-  MEMB002A    Drosophila rufa
+-  MEMB002C    Drosophila lacteicornis 
+-  MEMB003D    Drosophila bocki 
+-  MEMB003A    Drosophila leontia
+-  MEMB002D    Drosophila bunnanda 
+-  MEMB002E    Drosophila serrata 
+-  MEMB003B    Drosophila birch 
+-  MEMB003F    Drosophila jambulina 
+-  MEMB002F    Drosophila pectinifera 
 
